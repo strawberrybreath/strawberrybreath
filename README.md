@@ -1,16 +1,19 @@
-## Hi there 👋
+### 草莓味口气 · 她的影单
 
-<!--
-**strawberrybreath/strawberrybreath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+每期两部电影，慢慢攒着看。这里不评片，只把那些让我心里一亮的女人记下来——她们怎么选、怎么活，怎么把日子过成自己的。
 
-Here are some ideas to get you started:
+不剧透，也不替你做结论。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 网站：[strawberrybreath.github.io](https://strawberrybreath.github.io/)
+- 公众号：草莓味口气
+- 栏目：她的影单（每期两部）
+
+**往期**
+
+| 期号 | 主题 | 片目 |
+| --- | --- | --- |
+| 第 001 期 | [她的名字，她自己写](https://strawberrybreath.github.io/issue-001/) | 《钢琴课》×《82年生的金智英》 |
+
+---
+
+<sub>本页只做影片推荐：不提供、不存放、不代传任何影片文件。海报与剧照版权归各出品方所有，图片取自 TMDB。</sub>
